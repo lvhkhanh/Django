@@ -1,4 +1,11 @@
 # Django
+## Official
+### https://docs.djangoproject.com/en/3.1/topics/forms/
+### https://docs.djangoproject.com/en/3.1/topics/http/file-uploads/
+### https://www.django-rest-framework.org/tutorial/quickstart/
+### https://docs.djangoproject.com/en/3.1/topics/db/models/
+### https://docs.djangoproject.com/en/3.1/topics/templates/
+### https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps
 ## Install
 ```
 pip install django
